@@ -1,4 +1,8 @@
+
 hgfhgfdhdcyhfjhfkmfjgkj,
 fdhgfdhgdhggjh
+<<<<<<< HEAD
 hjgjhjhkjkjlhl;l.l
 zzzzzzzzzzzzzzzzzz
+=======
+>>>>>>> fede7768959c3f29e08d6ba5c988261c917bd1bf
